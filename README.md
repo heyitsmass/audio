@@ -43,9 +43,6 @@ A comprehensive Python package for audio analysis, normalization, fingerprinting
 
 ## Installation
 
-```bash
-pip install advanced-audio-tools
-```
 
 ### Dependencies
 
