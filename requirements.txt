@@ -1,0 +1,9 @@
+pydub
+soundfile
+pyloudnorm
+numpy
+tqdm
+librosa
+matplotlib
+scipy
+pytest
